@@ -1,6 +1,6 @@
 # Supabase Kubernetes
 
-> IMPORTANT: This is a fork of the upstream repository https://github.com/supabase-community/supabase-kubernetes, which got merged with the changes provided by 
+> IMPORTANT: This is a fork of the upstream repository https://github.com/supabase-community/supabase-kubernetes, which got merged with the changes provided by
 > another fork, namely https://github.com/voltade/supabase-kubernetes.
 >
 > Please note that this is a fork for my personal usage and I am not directly or indirectly affiliated with the packaged applications or their authors.
