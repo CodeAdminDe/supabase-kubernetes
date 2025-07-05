@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  supabase:
+  - apiVersion: v2
+    created: "2025-07-05T00:25:07.371181997Z"
+    description: The open source Firebase alternative.
+    digest: 7a45fcdfc118a966083abd9c799bf4b301082fdf6aab538893a663adba29ae55
+    icon: https://avatars.githubusercontent.com/u/54469796?s=280&v=4
+    name: supabase
+    type: application
+    urls:
+    - https://github.com/CodeAdminDe/supabase-kubernetes/releases/download/supabase-0.4.3/supabase-0.4.3.tgz
+    version: 0.4.3
+generated: "2025-07-05T00:25:07.371194139Z"
